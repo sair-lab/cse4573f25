@@ -5,7 +5,7 @@
 
 ## Lecturer:
 
-* Dr. [Chen Wang](https://sairlab.org/chen), Assistant Professor.
+* Dr. [Chen Wang](https://sairlab.org), Assistant Professor.
 
 ## Syllabus
 
